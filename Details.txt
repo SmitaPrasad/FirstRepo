@@ -1,1 +1,2 @@
 This is the first line in the file I am going to commit
+This is a new line added just now.
